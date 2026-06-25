@@ -1066,7 +1066,7 @@ hash = "f9866c313d6de65e01e1e3337457cfd1114f2a963bdf60ac55bbf2d1f294ec35"
 
 [[files]]
 file = "config/spore-common.toml"
-hash = "77b126386800c85607ab2578f605113585238c22cab4bf80c4124be004e715a3"
+hash = "da743731ce209c35168836c1357d78337c7b238c72be178942fb258c5cfbb5e3"
 
 [[files]]
 file = "config/spore-startup.toml"
@@ -1543,6 +1543,10 @@ hash = "bf6315356152067bc5f2e83a36e4d67953494ee9e31da1e77bbe0d1365dcdad3"
 [[files]]
 file = "mods/ccterminals-1.21.1-forge-0.1.0.jar"
 hash = "ff34692df0458753fb2628a46849ecb5b632096591df8a5e225ee5a886f957de"
+
+[[files]]
+file = "mods/chalk-1.6.12-1.21.1.jar"
+hash = "d95b6616dd3e50b9dfba9a05b3a09c5bf5d463aa50980eda40f4e3d997e1b0fb"
 
 [[files]]
 file = "mods/chat_heads-0.15.1-neoforge-1.21.jar"
@@ -2144,3 +2148,11 @@ hash = "6bd6cbab01ff57b9ba2fbfee18f9605593101f15d80e8d19dc59c385d2535ccc"
 [[files]]
 file = "mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar"
 hash = "b3e377b11d277cfbc0ccdd91a6fb6bc1ff4e93b354eb9c0277e1e4446c316ccb"
+
+[[files]]
+file = "run.bat"
+hash = "a0b1ffb02063216c968e7013abf34d34108f2f5b4707acb908e19671cbd282f5"
+
+[[files]]
+file = "run.sh"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
