@@ -1,0 +1,13 @@
+name = "Fungal Infection: Spore"
+filename = "spore_2.2.0h_1.21.1_neo.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52c1bcb936a6e045a07100292b04465840c055a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8110253
+project-id = 678295
