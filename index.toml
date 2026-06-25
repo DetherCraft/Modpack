@@ -1066,7 +1066,7 @@ hash = "f9866c313d6de65e01e1e3337457cfd1114f2a963bdf60ac55bbf2d1f294ec35"
 
 [[files]]
 file = "config/spore-common.toml"
-hash = "da743731ce209c35168836c1357d78337c7b238c72be178942fb258c5cfbb5e3"
+hash = "ff497c4b85d04269389dc7103905e34090fb6bfefb8f88986d634370a2ee9934"
 
 [[files]]
 file = "config/spore-startup.toml"
@@ -1543,10 +1543,6 @@ hash = "bf6315356152067bc5f2e83a36e4d67953494ee9e31da1e77bbe0d1365dcdad3"
 [[files]]
 file = "mods/ccterminals-1.21.1-forge-0.1.0.jar"
 hash = "ff34692df0458753fb2628a46849ecb5b632096591df8a5e225ee5a886f957de"
-
-[[files]]
-file = "mods/chalk-1.6.12-1.21.1.jar"
-hash = "d95b6616dd3e50b9dfba9a05b3a09c5bf5d463aa50980eda40f4e3d997e1b0fb"
 
 [[files]]
 file = "mods/chat_heads-0.15.1-neoforge-1.21.jar"
