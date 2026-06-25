@@ -1,0 +1,13 @@
+name = "Minecraft ( Dether Craft )"
+author = "Kazilsky"
+version = "0.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9017e271c885b24a32aac08a752f8003eee632ea90e41b7acf2203a25621830f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
