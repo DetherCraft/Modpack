@@ -1269,10 +1269,6 @@ file = "mods/CBCmoreshells-1.1.5.jar"
 hash = "8a26b7b62444b69fd11880d428c6b9571896c71fc5cd50af402a23961cd17655"
 
 [[files]]
-file = "mods/CBCscope+laser-1.0.0.jar"
-hash = "b0c9b8e97ced86c2c04ebc219bbc9fe92dcbf9d3ffab179cc585d2f4e40e1302"
-
-[[files]]
 file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
 hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
 
@@ -1465,6 +1461,11 @@ file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
+metafile = true
+
+[[files]]
 file = "mods/backpacked-neoforge-1.21.1-3.0.5.jar"
 hash = "203f673ec7ea9e805ef10aff2725d770e0d9fba7add801dec5e31b312b419c01"
 
@@ -1647,6 +1648,11 @@ hash = "31f0574d13a00e97014bb07d7a5b5c65fdd7fc13de45fabb09937421b35c07fa"
 [[files]]
 file = "mods/create-stuff-additions1.21.1_v2.1.3.jar"
 hash = "32e4372a6a970752e0921b56b34115e2e626b248d55123ae3d67723c87444e1c"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
 
 [[files]]
 file = "mods/create_aquatic_ambitions-1.21.1-2.0.2.jar"
@@ -2094,10 +2100,6 @@ file = "mods/sodiumextras-neoforge-1.0.8-1.21.1.jar"
 hash = "2f9d6ab7f3d968b985f30c083b136466b84d54f4cc9d5f05394c39615aae2f8f"
 
 [[files]]
-file = "mods/sodiumleafculling-neoforge-1.0.1-1.21.1.jar"
-hash = "39c48261ae34a26fcfbf0b64303a5afcc205cb40bb70b88941fced268f600e12"
-
-[[files]]
 file = "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
 hash = "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02"
 
@@ -2108,6 +2110,11 @@ hash = "df9f369a544418ca51011c3291382cdb9ac7fd014b0d54cf433f5875035226ae"
 [[files]]
 file = "mods/structureessentials-1.21.1-5.0.jar"
 hash = "7ecb6c9d04e20a6803ba6e51dd226eaa289ba2c2c095248f3645222a8bfc1c8d"
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
+metafile = true
 
 [[files]]
 file = "mods/supplementaries-neoforge-1.21.1-3.6.7.jar"
