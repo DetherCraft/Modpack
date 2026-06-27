@@ -1,6 +1,6 @@
 ["Loot Tables"]
 	#item|chance to drop(1-100)|minimum amount|maximum amount. Only values above 0 will be taken in consideration.
-	"Infected Human" = ["spore:mutated_fiber|49|1|3", "spore:mutated_heart|10|1|1"]
+	"Infected Human" = ["spore:mutated_fiber|48|1|3", "spore:mutated_heart|10|1|1"]
 	"Infected Drowned" = ["spore:mutated_fiber|50|1|3", "spore:mutated_heart|5|1|1", "minecraft:copper_ingot|15|1|1"]
 	"Infected Villager" = ["spore:mutated_fiber|50|2|5", "minecraft:emerald|20|1|1", "spore:mutated_heart|10|1|1", "spore:cerebrum|25|1|1", "spore:spine_fragment|15|1|3"]
 	"Infected Pillager" = ["spore:mutated_fiber|50|2|5", "minecraft:emerald|20|1|1", "spore:mutated_heart|10|1|1", "spore:cerebrum|25|1|1", "spore:spine_fragment|15|1|3"]
