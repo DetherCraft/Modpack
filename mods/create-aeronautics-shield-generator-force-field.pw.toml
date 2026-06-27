@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Shield Generators | Create Big Cannons Compat |Force Field"
+filename = "shield_generators-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "477491967d43a5fd5af1a14f35ee67342a034c09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8230211
+project-id = 1559550

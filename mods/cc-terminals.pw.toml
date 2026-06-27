@@ -1,0 +1,13 @@
+name = "CC: Terminals"
+filename = "ccterminals-1.21.1-forge-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdb8b7a1121f29639cf6715bb0aa160fca4847d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7931949
+project-id = 1514993

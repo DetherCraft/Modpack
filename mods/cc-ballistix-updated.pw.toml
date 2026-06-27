@@ -1,0 +1,13 @@
+name = "CC: BallistiX Updated"
+filename = "ccbx-1.21.1-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1aad24eae910147a74361f5bc277296bd33e5cbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8254294
+project-id = 1035101
