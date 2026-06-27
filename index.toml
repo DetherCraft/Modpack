@@ -1066,7 +1066,7 @@ hash = "f9866c313d6de65e01e1e3337457cfd1114f2a963bdf60ac55bbf2d1f294ec35"
 
 [[files]]
 file = "config/spore-common.toml"
-hash = "77b126386800c85607ab2578f605113585238c22cab4bf80c4124be004e715a3"
+hash = "ff497c4b85d04269389dc7103905e34090fb6bfefb8f88986d634370a2ee9934"
 
 [[files]]
 file = "config/spore-startup.toml"
